@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-silcal/PROTO/static/css/main.78017413.css",
+    "main.js": "/react-silcal/PROTO/static/js/main.59212b2f.js",
+    "static/js/453.d7814da0.chunk.js": "/react-silcal/PROTO/static/js/453.d7814da0.chunk.js",
+    "index.html": "/react-silcal/PROTO/index.html",
+    "main.78017413.css.map": "/react-silcal/PROTO/static/css/main.78017413.css.map",
+    "main.59212b2f.js.map": "/react-silcal/PROTO/static/js/main.59212b2f.js.map",
+    "453.d7814da0.chunk.js.map": "/react-silcal/PROTO/static/js/453.d7814da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78017413.css",
+    "static/js/main.59212b2f.js"
+  ]
+}
